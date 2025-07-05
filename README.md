@@ -7,7 +7,7 @@ This repository contains a personal portfolio project demonstrating data science
   - Data preprocessing and cleaning
   - Exploratory Data Analysis (EDA)
   - Feature engineering
-  - Applying machine learning models (e.g., regression, clustering, or deep learning)
+  - Applying machine learning models (PCA, clustering)
   - Evaluation and interpretation of model results
 - Organized to showcase clean, reproducible, and well-documented code.
 
