@@ -21,8 +21,5 @@ This repository contains a personal portfolio project demonstrating data science
   - Ability to document and communicate technical work
   - End-to-end data project structure
 
-## **How to View**
-Open [`Learner Notebook - Potential Customers Prediction.ipynb`](Learner_Notebook_-_Potential_Customers_Prediction.ipynb).
-
 ## **Author**
 Gabriel Ivan Ortega (Yiyo)
