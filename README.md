@@ -14,7 +14,6 @@ This repository contains a personal portfolio project demonstrating data science
 ## **Technologies & Libraries**
 - Python (pandas, NumPy, scikit-learn, Matplotlib, Seaborn, etc.)
 - Jupyter Notebook
-- HTML export for easy viewing
 
 ## **Purpose**
 - Built as part of a personal portfolio to demonstrate:
@@ -23,7 +22,7 @@ This repository contains a personal portfolio project demonstrating data science
   - End-to-end data project structure
 
 ## **How to View**
-Open [`Learner_Fullcode_Notebook.html`](Learner_Fullcode_Notebook.html) in your browser to explore the full notebook.
+Open [`Learner Notebook - Potential Customers Prediction.ipynb`](Learner_Notebook_-_Potential_Customers_Prediction.ipynb).
 
 ## **Author**
 Gabriel Ivan Ortega (Yiyo)
